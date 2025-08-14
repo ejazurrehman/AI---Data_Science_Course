@@ -31,3 +31,8 @@
 
 01. Python Operators:
    - Arithmatic Operators
+   - Comparison Operators
+   - Logical Operators
+   - Assingment Operators
+   - Bitwise Operators
+   - Membership Operators
