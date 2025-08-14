@@ -25,3 +25,6 @@
 - Microsft Edge
 - https://gemini.google.com/app
 - https://huggingface.co/
+
+### Create miniconda environment:
+- python_eda
