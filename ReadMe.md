@@ -29,7 +29,7 @@
 ### Create miniconda environment:
 - python_eda
 
-01. Python Operators:
+### 01. Python Operators:
    - Arithmatic Operators
    - Comparison Operators
    - Logical Operators
