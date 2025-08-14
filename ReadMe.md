@@ -28,3 +28,6 @@
 
 ### Create miniconda environment:
 - python_eda
+
+01. Python Operators:
+   - Arithmatic Operators
