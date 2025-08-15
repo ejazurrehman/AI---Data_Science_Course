@@ -64,4 +64,21 @@
    - Summary table
 
 ### 05. Control Flow Statements:
-   - 
+   - What is control flow in python?
+   - Types of control flow in python
+     - conditional statements
+     - loops
+       - For loop
+       - While loop
+      - loop control statements
+        - continue
+        - break
+        - pass
+      - fucntion calls (structured flow control)
+   - Summary table
+    
+### 06. Nested Loops in Python:
+   - nested for loop example
+   - nested while loop example
+   - combined while and for loops
+   - key points
