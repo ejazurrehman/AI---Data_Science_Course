@@ -50,3 +50,18 @@
    - Changing variable values
    - Dynamic typing
    - Type conversion
+
+### 03. Indentation:
+   - Basic idea
+   - How it works?
+   - Using If with Elif and Else
+   - Key points about IF in python
+     
+### 04. Data Sturctue & Indexing:
+   - Data structure in python
+   - Common built in data structure
+   - Indexing in python
+   - Summary table
+
+### 05. Control Flow Statements:
+   - 
