@@ -36,3 +36,17 @@
    - Assingment Operators
    - Bitwise Operators
    - Membership Operators
+
+### 02. Variables:
+   - why need variables?
+   - Usage of variables
+   - Types of variables
+     - Numeric varibale
+     - String variable
+     - Boolean variable
+     - List variable
+     - Dicitonary variable
+     - Tuple variable
+   - Changing variable values
+   - Dynamic typing
+   - Type conversion
