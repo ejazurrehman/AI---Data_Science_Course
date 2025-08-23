@@ -1,3 +1,15 @@
+# Author Info
+Name: **Ejaz-ur-Rehman**\
+Business Unit Head | Data Analyst\
+MBA (Accounting & Finance), MS (Finance)\
+Crystal Tech (Project of MUZHAB Group)\
+Karachi, Pakistan
+
+![Date](https://img.shields.io/badge/Date-23--Aug--2025-green?logo=google-calendar)
+[![Email](https://img.shields.io/badge/Email-ijazfinance%40gmail.com-blue?logo=gmail)](mailto:ijazfinance@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ejaz--ur--Rehman-blue?logo=linkedin)](https://www.linkedin.com/in/ejaz-ur-rehman/)
+[![GitHub](https://img.shields.io/badge/GitHub-ejazurrehman-black?logo=github)](https://github.com/ejazurrehman)
+
 ## AI & Data_Science_Course
 
 ### Course Overview:
